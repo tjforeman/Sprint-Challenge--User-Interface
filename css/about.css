@@ -94,5 +94,24 @@ header nav a{
 .building{
     margin-left:220px;
     width:800px;
-    padding-bottom:20px;
+    padding-bottom:10px;
+}
+.about{
+    padding:20px;
+    margin-bottom:20px;
+    border-bottom:1px dotted black;
+  }
+  .main{
+    display:flex;
+     flex-wrap:wrap;
+     justify-content:space-between;
+     width:100%;
+   }
+   .main .box{
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    width:350px;
+    border-bottom: 1px dotted black;
+    margin-bottom:20px;
 }

@@ -74,7 +74,7 @@ header{
     display:flex;
     padding-bottom:25px;
     width:880px;
-    margin-left:200px;
+    margin-left:280px;
 }
 header img{
     padding-left:20px;
@@ -92,7 +92,7 @@ header nav a{
     color:black;
 }
 .building{
-    margin-left:220px;
+    margin-left:280px;
     width:800px;
     padding-bottom:10px;
 }

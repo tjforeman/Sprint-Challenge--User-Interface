@@ -74,7 +74,8 @@ header{
     display:flex;
     padding-bottom:25px;
     width:880px;
-    margin-left:200px;
+    margin-left:280px;
+    align-items:center;
 }
 header img{
     padding-left:20px;
@@ -92,9 +93,9 @@ header nav a{
     color:black;
 }
 .street{
-    margin-left:220px;
+    margin-left:280px;
     width:800px;
-    padding-bottom:20px;
+    padding-bottom:10px;
 }
 .top-content {
     display: flex;
